@@ -11,4 +11,4 @@ The SNAP:DRGN Cookbook – recommendations for producing interchangable Linked O
 
 * [Cookbook version 1.0 (2014)](https://github.com/SNAP-DRGN/Cookbook/blob/main/archive/SNAPDRGNCookbook_1.0.pdf) (PDF)
 * [Cookbook version 2.0 (2015)](https://github.com/SNAP-DRGN/Cookbook/blob/main/archive/SNAPDRGNCookbook_2.0.pdf) (PDF)
-* [Cookbook development version (2020)](http://bit.ly/SNAPcookbook) (Googledoc)
+* [Cookbook development version (2014–2020)](http://bit.ly/SNAPcookbook) (Googledoc)
