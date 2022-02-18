@@ -1,4 +1,4 @@
-# SAP:DRGN Cookbook
+# SNAP:DRGN Cookbook
 The SNAP:DRGN Cookbook – recommendations for producing interchangable Linked Open Data from historical person data.
 
 ## Current version
