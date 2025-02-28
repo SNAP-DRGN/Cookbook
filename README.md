@@ -3,7 +3,7 @@ The SNAP:DRGN Cookbook – recommendations for producing interchangable Linked O
 
 ## Current version
 
-* [New Cookbook Wiki (2022)](https://github.com/SNAP-DRGN/Cookbook/wiki)
+* [New Cookbook Wiki (2022–)](https://github.com/SNAP-DRGN/Cookbook/wiki)
 
 ## Archive
 
